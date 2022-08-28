@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supernyv
 - 👀 I’m interested in game and software programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a word game using pygame
+- 🌱 I’ve been actively learning Python and C++ for the last two years
+- 💞️ Looking for opportunities and suitable environment to gain expertise
 - 📫 My email: supernyv@gmail.com
 
 <!---
